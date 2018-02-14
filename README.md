@@ -1,5 +1,9 @@
 # Лабораторна № 1
 
+Скріни ось тут
+
+https://imgur.com/a/v7mE9
 
 
-![alt-текст](https://github.com/blek213/LabCPP1/raw/master/scrins/Num1.png)
+
+
