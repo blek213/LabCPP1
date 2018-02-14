@@ -2,4 +2,4 @@
 
 
 
-![alt-текст](https://github.com/blek23/markdown-here/raw/master/scripts/Num1.png "Текст заголовка логотипа 1")
+![alt-текст](https://github.com/blek213/LabCPP1/raw/master/scrins/Num1.png "Перший скрін")
