@@ -6,4 +6,4 @@
 
 Скріншоти:
 
-![Image alt](https://github.com/{blek213}/{LabCPP1}/raw/{master}/{tree}/{scrins}/Num1.png)
+![Image alt](https://github.com/{blek213}/{LabCPP1}/raw/{master}/{scrins}/Num1.png)
