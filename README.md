@@ -2,4 +2,4 @@
 
 
 
-![screenshot of sample](https://ibb.co/dC00i7)
+![alt-текст](https://github.com/blek23/markdown-here/raw/master/scripts/Num1.png "Текст заголовка логотипа 1")
